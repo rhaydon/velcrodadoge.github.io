@@ -1,27 +1,10 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Velcrodadoge</title>
-  <meta charset="utf-8"/>
-  <link rel="stylesheet" type="text/css" href="main.css">
-</head>
-<body>
-  <div class="container">
-    <div class="nav">
-      <h2>Velcrodadoge</h2>
-      <ul>
-        <li>Home</li>
-        <li>Artwork</li>
-        <li>Videos</li>
-        <li>Store</li>
-        <li>About the artist</li>
-      </ul>
-    </div>
-    <div class="main">
-      <h1>Velcrodadoge</h1>
-      <h3>A work in progress</h3>
-      <p>Velcrodadoge specializes in dragon art.  Loves creative writing and all animals.</p>
-    </div>
-  </div>
-</body>
-</html>
+# Velcrodadoge
+
+## Artwork
+## Videos
+## Store
+## About the artist
+
+### A Work in Progress
+
+#### Velcrodadoge specializes in dragon art.  Loves creative writing and all animals.
